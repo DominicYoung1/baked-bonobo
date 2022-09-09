@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2021-10-05T04:38:07.259Z" agent="5.0 (Windows)" etag="JV0yqvUg4DygHL_E0JrR" version="15.4.1" type="github">
+  <diagram id="rkOsvHp1wSl9YA9Q9YzU" name="Page-1">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WeaxQShO8EMJUN5F787_-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WeaxQShO8EMJUN5F787_-1" target="WeaxQShO8EMJUN5F787_-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-4" value="upstairs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WeaxQShO8EMJUN5F787_-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.2145" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WeaxQShO8EMJUN5F787_-1" target="WeaxQShO8EMJUN5F787_-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-6" value="Outdoor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WeaxQShO8EMJUN5F787_-5" vertex="1" connectable="0">
+          <mxGeometry x="0.3556" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WeaxQShO8EMJUN5F787_-1" target="WeaxQShO8EMJUN5F787_-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-10" value="West Door" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WeaxQShO8EMJUN5F787_-8" vertex="1" connectable="0">
+          <mxGeometry x="0.1862" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-1" value="Barracks" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="370" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-2" value="Tower" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="590" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.037;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.031;exitY=0.569;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WeaxQShO8EMJUN5F787_-1" target="WeaxQShO8EMJUN5F787_-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-15" value="east" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WeaxQShO8EMJUN5F787_-14" vertex="1" connectable="0">
+          <mxGeometry x="0.2879" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-7" value="Outer Battlements" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="380" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WeaxQShO8EMJUN5F787_-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-12" value="South Door" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WeaxQShO8EMJUN5F787_-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.3167" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-9" value="Serving Hall" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="220" y="400" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WeaxQShO8EMJUN5F787_-13" value="Training Yard" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="570" y="395" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

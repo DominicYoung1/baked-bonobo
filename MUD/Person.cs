@@ -1,0 +1,6 @@
+﻿namespace MUD
+{
+    class Person
+    {
+    }
+}
